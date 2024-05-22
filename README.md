@@ -64,7 +64,7 @@ python manage.py runserver
    ```
    http://127.0.0.1:8000/api/v1/jwt/create/
    ```
-    ![Example-get-token](https://github.com/Sined-Htims/Image/blob/main/api_yatube/Example-get-token.png)
+    ![Example-get-token](https://github.com/Sined-Htims/Image/blob/main/api_yatube/Example-get-token.png)  
     **На изображении указан эндпоинт из предыдущего спринта, но принцип один и тот же.*
 
 <br>
