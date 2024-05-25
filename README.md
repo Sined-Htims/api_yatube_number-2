@@ -64,7 +64,7 @@ python manage.py runserver
    ```
    http://127.0.0.1:8000/api/v1/jwt/create/
    ```
-    ![Example-get-token](https://github.com/Sined-Htims/Image/blob/main/api_yatube/Example-get-token.png)
+    ![Example-get-token](https://github.com/Sined-Htims/Image/blob/main/api_yatube/Example-get-token.png)  
     **На изображении указан эндпоинт из предыдущего спринта, но принцип один и тот же.*
 
 <br>
@@ -73,7 +73,7 @@ python manage.py runserver
     <br>Для автоматического предоставления токена серверу, необходимо во вкладке ***Headears*** приложения ***Postman***, установить в значение ключа ***Authorization*** полученный токен из пункта 8, добавив перед ним слово ***Bearer***.
     <br>
     <br>
-    ![Example-add-token](https://github.com/Sined-Htims/Image/blob/main/api_yatube/Example-add-token.png)
+    ![Example-add-token](https://github.com/Sined-Htims/Image/blob/main/api_yatube/Example-add-token.png)  
     **На изображении указано слово Token из предыдущего спринта, но принцип один и тот же, только теперь необходимо указать Bearer.*
     </br>
 <br>
